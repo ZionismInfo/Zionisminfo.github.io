@@ -5,11 +5,26 @@
 	background-color:#8000FF;
 	top:0;
 }
+#header button {
+	background-color:#FFFFFF;
+	margin-top:20px;
+	text-align:center;
+	display:inline-block;
+	border-radius:15px;
+	height:40px;
+	width:150px;
+	font-size:20px;
+	font-weight:bold;
+	color:#3333FF;
+}
+#header nav {
+	text-align:center;
+}
 #footer {
 	position:fixed;
-	height:20px;
+	height:40px;
 	width:100%;
-	background-color:#AAAAAA;
+	background-color:#CCCCCC;
 	bottom:0;
 }
 #main {
